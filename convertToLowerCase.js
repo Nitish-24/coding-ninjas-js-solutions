@@ -4,6 +4,6 @@ function lowerCaseString(str1, str2) {
   
     let ans = str1.concat(str2);
     answer = ans.toLowerCase();
-    console.log(answer);
+    // console.log(answer);
   return answer; 
 }
